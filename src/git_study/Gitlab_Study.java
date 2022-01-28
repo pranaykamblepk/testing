@@ -9,6 +9,8 @@ public class Gitlab_Study {
 		System.out.println("Updates on git");
 		//comment by kaiwalya
 		System.out.println("updates by kaiwalya");
+		//comment by ganesh
+		System.out.println("ganesh commited sucide");
 
 	}
 
