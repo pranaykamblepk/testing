@@ -13,6 +13,9 @@ public class Gitlab_Study {
 		System.out.println("ganesh commited sucide");
 		//Comment by Aryan
 		System.out.println("by Aryan");
+		//commented by swati
+		System.out.println("Pushed Changes by Swati");
+		
 
 	}
 
